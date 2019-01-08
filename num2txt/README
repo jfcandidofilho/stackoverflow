@@ -1,0 +1,14 @@
+*   num2txt
+*
+*   Transforma números naturais até 999 - e incluindo o zero - em suas versões
+* extensas (texto). Exemplo: `0` retorna `"Zero"`.
+*
+*   Copyright (C) 2016 J. F. Candido Filho <jfcandidofilho [at] gmail.com>
+*
+*   Uso:            ./num2txt [número]
+*   Compilando:     gcc -ansi -pedantic -Wall -Werror num2txt.c -o num2txt
+*   Make:           make
+*
+*   Feito para: http://pt.stackoverflow.com/questions/152029
+*
+*   Licença: GNU GPL versão 3
