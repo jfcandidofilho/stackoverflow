@@ -1,0 +1,13 @@
+body { font-size: 12px; }
+
+	#nav { width: 22em; text-align: center; }
+
+		#formulario { float: left; width: 5em; margin: 0 2em 0 0; }
+
+		#saida { float: left; width: 15em; }
+
+			#cabecalho { background-color: #ffffaa; color: 333; padding: 0.5em; }
+
+			#destino { padding: 0.5em; }
+
+		.limpar { clear: both; }
