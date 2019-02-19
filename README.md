@@ -13,6 +13,11 @@ Codes made for StackOverflow &amp; cia. List:
         - Language: C
         - Folder: 354602
         - Files: programa.c entrada.txt LICENSE Makefile README
+        
+	3. [Como colocar um link dentro de uma String?][3]
+		- Language: JavaScript, HTML, CSS
+		- Folder: 363525
+		- Files: index.html index.js index.css LICENSE README
 
 
 ## NOTE
@@ -21,3 +26,4 @@ There is a `SKEL` folder to help with future 'stuff'.
 
 [1]:https://pt.stackoverflow.com/questions/152029/
 [2]:https://pt.stackoverflow.com/questions/354602/
+[3]:https://pt.stackoverflow.com/questions/363525/
