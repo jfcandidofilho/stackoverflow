@@ -1,13 +1,13 @@
 /*******************************************************************************
  * 
  *   Created: tue jan 08 02:21:57 -02 2019
- *   Updated: 
+ *   Updated: sat feb 23 00:22:28 -03 2019
  * 
  *------------------------------------------------------------------------------
  *
  *   [no name] - Made to solve pt.stackoverflow.com/questions/354602/
  * 
- *   Copyright (C) 2016 J. F. Candido Filho <jfcandidofilho [at] gmail.com>
+ *   Copyright (C) 2019 J. F. Candido Filho <jfcandidofilho [at] gmail.com>
  * 
  *   This program is free software: you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
