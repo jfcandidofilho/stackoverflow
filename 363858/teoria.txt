@@ -1,0 +1,9 @@
+N = pessoas à frente de A
+H = altura em ordem do primeiro ao ultimo
+
+aH = altura limite
+	-> atualizada quando uma nova altura maior aparece
+
+SE H > aH
+	-> +1 que consegue ver
+	-> aH = H

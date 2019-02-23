@@ -1,0 +1,13 @@
+*   programa
+*
+*   Feito para solucionar pt.stackoverflow.com/questions/363858/
+*
+*   Copyright (C) 2019 J. F. Candido Filho <jfcandidofilho [at] gmail.com>
+*
+*   Uso:            ./exe
+*   Compilando:     g++ -o exe -ansi -pedantic -Wall -Werror -Wextra programa.c
+*   Make:           make
+*
+*   Feito para:     Linux
+*
+*   Licença: GNU GPL versão 3

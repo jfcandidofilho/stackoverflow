@@ -19,7 +19,12 @@ Codes made for StackOverflow &amp; cia. List:
 		- Folder: 363525
 		- Files: index.html index.js index.css LICENSE README
 		
-	4. [Problema com função de busca e inserção][4]
+	4. [Problema com código em C++][4]
+		- Language: C++
+        - Folder: 363858
+        - Files: programa.cpp teoria.txt LICENSE Makefile README
+		
+	5. [Problema com função de busca e inserção][5]
 		- Language: C
         - Folder: 364375
         - Files: programa.c exemplo_01.c exemplo_02.c LICENSE Makefile README
@@ -32,4 +37,5 @@ There is a `SKEL` folder to help with future 'stuff'.
 [1]:https://pt.stackoverflow.com/questions/152029/
 [2]:https://pt.stackoverflow.com/questions/354602/
 [3]:https://pt.stackoverflow.com/questions/363525/
-[4]:https://pt.stackoverflow.com/questions/364375/
+[4]:https://pt.stackoverflow.com/questions/363525/
+[5]:https://pt.stackoverflow.com/questions/364375/
