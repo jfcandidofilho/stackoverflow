@@ -1,7 +1,9 @@
 CC = gcc
 CFLAGS = -Wall -pedantic -ansi -Werror -Wextra
 
-src = $(wildcard *.c)
+rmv = 
+
+src = $(filter-out $(rmv), $(wildcard *.c))
 obj = $(src:.c=.o)
 
 target = exe
