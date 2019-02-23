@@ -1,5 +1,5 @@
-CC = g++
-CFLAGS = -Wall -pedantic -ansi -Werror -Wextra
+CPPC = g++
+CPPFLAGS = -Wall -pedantic -ansi -Werror -Wextra
 
 rmv = 
 
@@ -9,9 +9,9 @@ obj = $(src:.cpp=.o)
 target = exe
 
 $(target):	$(obj)
-			$(CC) $(CFLAGS) -o $@ $^
+			$(CPPC) $(CPPFLAGS) -o $@ $^
 			
-			@echo gnutic has been compiled!
+			@echo program has been compiled!
 
 clean:
 			rm -rf $(obj) $(target)
