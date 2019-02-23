@@ -11,7 +11,7 @@ target = exe
 $(target):	$(obj)
 			$(CC) $(CFLAGS) -o $@ $^
 			
-			@echo gnutic has been compiled!
+			@echo program has been compiled!
 
 clean:
 			rm -rf $(obj) $(target)
