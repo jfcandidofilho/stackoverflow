@@ -29,7 +29,7 @@ Codes made for StackOverflow &amp; cia. List:
         - Folder: 364375
         - Files: programa.c exemplo_01.c exemplo_02.c LICENSE Makefile README
         
-    5. [Como criar todas combinações possiveis apartir de uma string?][6]
+    6. [Como criar todas combinações possiveis apartir de uma string?][6]
 		- Language: Python
         - Folder: 370932
         - Files: programa.py output.txt LICENSE README
