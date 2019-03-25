@@ -28,6 +28,11 @@ Codes made for StackOverflow &amp; cia. List:
 		- Language: C
         - Folder: 364375
         - Files: programa.c exemplo_01.c exemplo_02.c LICENSE Makefile README
+        
+    5. [Como criar todas combinações possiveis apartir de uma string?][6]
+		- Language: Python
+        - Folder: 370932
+        - Files: programa.py output.txt LICENSE README
 
 
 ## NOTE
@@ -39,3 +44,4 @@ There is a `SKEL` folder to help with future 'stuff'.
 [3]:https://pt.stackoverflow.com/questions/363525/
 [4]:https://pt.stackoverflow.com/questions/363525/
 [5]:https://pt.stackoverflow.com/questions/364375/
+[6]:https://pt.stackoverflow.com/questions/370932/

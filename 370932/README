@@ -1,0 +1,11 @@
+*   programa
+*
+*   Gera todos os pares possiveis de todas as letras do alfabeto (c/ repetiçao)
+*
+*   Copyright (C) 2019 J. F. Candido Filho <jfcandidofilho [at] gmail.com>
+*
+*   Uso:            python programa.py
+*
+*   Feito para:     https://pt.stackoverflow.com/questions/370932
+*
+*   Licença: GNU GPL versão 3
