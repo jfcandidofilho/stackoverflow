@@ -1,0 +1,13 @@
+*   programa
+*
+*   Verifica se um número é perfeito
+*
+*   Copyright (C) 2019 J. F. Candido Filho <jfcandidofilho [at] gmail.com>
+*
+*   Uso:            ./exe
+*   Compilando:     gcc -Wall -pedantic -ansi -Werror -Wextra -o exe programa.c
+*   Make:           make
+*
+*   Feito para:     pt.stackoverflow.com/questions/370931
+*
+*   Licença: GNU GPL versão 3

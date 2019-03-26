@@ -33,6 +33,11 @@ Codes made for StackOverflow &amp; cia. List:
 		- Language: Python
         - Folder: 370932
         - Files: programa.py output.txt LICENSE README
+        
+    7. [Problema com número perfeito em C][7]
+        - Language: C
+        - Folder: 370931
+        - Files: programa.c LICENSE Makefile README
 
 
 ## NOTE
@@ -45,3 +50,4 @@ There is a `SKEL` folder to help with future 'stuff'.
 [4]:https://pt.stackoverflow.com/questions/363525/
 [5]:https://pt.stackoverflow.com/questions/364375/
 [6]:https://pt.stackoverflow.com/questions/370932/
+[7]:https://pt.stackoverflow.com/questions/370931/
