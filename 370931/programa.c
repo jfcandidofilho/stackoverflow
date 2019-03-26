@@ -38,8 +38,8 @@ int isPerfect(int *number) {
     
     for( i = 1; i < (size_t) *number; ++i ) if( *number % i == 0 ) sum += i;
     
-    if( sum == *number ) return 1; /* É perfeito */
-    else                 return 0; /* Não é perfeito */
+    if( sum == *number && *number > 0 ) return 1; /* É perfeito */
+    else                                return 0; /* Não é perfeito */
     
 }
 
@@ -57,7 +57,7 @@ int main( int argc, char **argv )  {
     if( argc > 1 ) *number = atoi( argv[1] );
     else {
     
-        printf("> Digite um número inteiro: ");
+        printf("> Digite um número natural: ");
         scanf("%d", number);
 
     }
