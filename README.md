@@ -51,3 +51,4 @@ There is a `SKEL` folder to help with future 'stuff'.
 [5]:https://pt.stackoverflow.com/questions/364375/
 [6]:https://pt.stackoverflow.com/questions/370932/
 [7]:https://pt.stackoverflow.com/questions/370931/
+[8]:https://pt.stackoverflow.com/questions/371255/
