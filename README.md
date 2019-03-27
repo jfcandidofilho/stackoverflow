@@ -43,6 +43,11 @@ Codes made for StackOverflow &amp; cia. List:
         - Language: C
         - Folder: 371255
         - Files: programa.c LICENSE Makefile README
+        
+    9. [Por que não consigo imprimir o que tem dentro da lista?][9]
+        - Language: C
+        - Folder: 371358
+        - Files: programa.c LICENSE Makefile README
 
 
 ## NOTE
@@ -57,3 +62,4 @@ There is a `SKEL` folder to help with future 'stuff'.
 [6]:https://pt.stackoverflow.com/questions/370932/
 [7]:https://pt.stackoverflow.com/questions/370931/
 [8]:https://pt.stackoverflow.com/questions/371255/
+[9]:https://pt.stackoverflow.com/questions/371358/
